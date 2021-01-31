@@ -1,2 +1,2 @@
 some info
-new line
+experiments with amend
